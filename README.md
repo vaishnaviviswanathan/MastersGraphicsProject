@@ -1,4 +1,5 @@
 # MastersGraphicsProject
+<pre>
 project: City building
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 Vaishnavi Viswanathan
@@ -45,6 +46,6 @@ References
 5) https://github.com/davidwparker/opengl-screencasts-1/blob/master/008.c -> understanding cylinder’s construction
 6) http://www.shamusyoung.com/twentysidedtale/?p=2954 -> building textures
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-
+</pre>
 
 
