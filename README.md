@@ -32,9 +32,7 @@ Default entry of the project will happen in perspective mode without the first p
  *  n/N        Decrease/increase shininess
  *  ESC        Exit
  
-I have used glutSolidSphere just for the snow flakes; For the other spherical spheres used in the environment I have built the spheres using QUAD_STRIP
-
-Also, when the rain and snow mode is switched on, it will take a few seconds for the rain/snow to pour down
+When the rain and snow mode is switched on, it will take a few seconds for the rain/snow to pour down
 
 ————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 References
